@@ -10,7 +10,7 @@ This model was developed for `educational purposes only` for the identified lear
 
 **Model Type**: A Random Forest Classifier model was chosen for this project.
 
-**Library**: The library list used to build this model includes: `scikit-learn`, `pandas`, `numpy`,`fastapi`, and `pytest` to name some of the primary's. The needed list can be found within the requirements.txt file that is included.
+**Library**: The library list used to build this model includes: `scikit-learn`, `pandas`, `numpy`, and `fastapi` to name some of the primary requirements. The needed list can be found within the requirements.txt file that is included.
 
 **Objective**: The goal is to predict whether an individual’s income exceeds $50K/year based on specific features using census data.  
 
