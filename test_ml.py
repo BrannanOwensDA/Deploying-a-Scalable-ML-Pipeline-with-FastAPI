@@ -1,4 +1,5 @@
 # TODO: add necessary import
+import pytest
 from sklearn.ensemble import RandomForestClassifier # type: ignore
 from ml.model import train_model, compute_model_metrics, inference
 import numpy as np
